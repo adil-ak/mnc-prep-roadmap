@@ -1,5 +1,5 @@
 # 🚀 Prep-data-scientist
-*My 1-Year Journey of Python, Data Science & Analysis*
+*My Revisioning Journey of Python, Data Science & Analysis*
 
 ---
 
@@ -7,7 +7,7 @@
 Hi, I’m **Adil** – a passionate learner aiming to build a strong career as a **Data Scientist & Analyst**.  
 I strongly believe in **consistent learning + practice + projects** as the way to mastery.  
 
-This repository is a complete documentation of my **1-year professional study plan** where I practice **Python, Data Structures, Analytics, and Projects** – step by step – to achieve my placement goals.  
+This repository is a complete documentation of my practice in  **Python, Data Structures, Analytics, and Projects** – step by step – to achieve my placement goals.  
 
 ---
 
